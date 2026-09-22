@@ -1,0 +1,20 @@
+{
+  "android_version": "1.0.9",
+  "android_version_code": 10009,
+  "android_download": "https://github.com/Pytholearn/UsPlayer-Android/releases/download/v1.0.9/UsPlayer-1.0.9.apk",
+  "android_sha256": "<sha256 فایل apk>",
+  "android_min_version": "",
+
+  "relay": "46.29.34.230:24700",
+  "relay_backups": [],
+  "relay_key": "",
+
+  "ads_manifest": "http://46.29.34.230:8088/ads.json",
+  "resolve_endpoint": "",
+
+  "site": "https://usplayer.ir",
+  "notice": "",
+  "notice_until": "",
+  "notes": "",
+  "updated": "2026-09-22"
+}
