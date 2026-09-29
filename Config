@@ -1,8 +1,8 @@
 {
-  "android_version": "1.0.9",
+  "android_version": "1.0.10",
   "android_version_code": 10009,
   "android_download": "https://github.com/Pytholearn/UsPlayer-Android/releases/download/1.0.9/UsPlayer-1.0.9.apk",
-  "android_sha256": "dad84795a5f9587881a4548d9c95b35602f7e6db7991b44d393608d294cab3ef",
+  "android_sha256": "27d0a595ee61388899fa593e9cff040c5efed76e57cace715e84cee55b89da11",
   "android_min_version": "",
 
   "relay": "109.70.74.115:24700",
