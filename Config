@@ -5,11 +5,11 @@
   "android_sha256": "dad84795a5f9587881a4548d9c95b35602f7e6db7991b44d393608d294cab3ef",
   "android_min_version": "",
 
-  "relay": "46.29.34.230:24700",
+  "relay": "109.70.74.115:24700",
   "relay_backups": [],
   "relay_key": "",
 
-  "ads_manifest": "http://46.29.34.230:8088/ads.json",
+  "ads_manifest": "http://109.70.74.115:8088/ads.json",
   "resolve_endpoint": "",
 
   "site": "https://usplayer.ir",
