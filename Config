@@ -1,8 +1,8 @@
 {
-  "android_version": "1.0.10",
-  "android_version_code": 10009,
-  "android_download": "https://github.com/Pytholearn/UsPlayer-Android/releases/download/1.0.9/UsPlayer-1.0.9.apk",
-  "android_sha256": "27d0a595ee61388899fa593e9cff040c5efed76e57cace715e84cee55b89da11",
+  "android_version": "1.0.11",
+  "android_version_code": 10011,
+  "android_download": "https://github.com/Pytholearn/UsPlayer-Android/releases/download/1.0.11/UsPlayer-1.0.11.apk",
+  "android_sha256": "d190ecf922b7f9f6e24143009b85a04b86a0673ded5e934c89289739bd861015",
   "android_min_version": "",
 
   "relay": "91.216.217.119:24700",
@@ -16,5 +16,5 @@
   "notice": "",
   "notice_until": "",
   "notes": "",
-  "updated": "2026-09-22"
+  "updated": "2026-10-01"
 }
