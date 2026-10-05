@@ -1,7 +1,7 @@
 {
   "android_version": "1.0.13",
-  "android_version_code": 10011,
-  "android_download": "https://github.com/Pytholearn/UsPlayer-Android/releases/download/1.0.11/UsPlayer-1.0.13.apk",
+  "android_version_code": 10013,
+  "android_download": "https://github.com/Pytholearn/UsPlayer-Android/releases/download/1.0.13/UsPlayer-1.0.13.apk",
   "android_sha256": "edd417bc03b0b7a77a28e30af7a0e20f00a270efd21fe0308ab84959e4158cc0",
   "android_min_version": "",
 
@@ -10,11 +10,12 @@
   "relay_key": "",
 
   "ads_manifest": "http://91.216.217.119:8088/ads.json",
+  "account_pin": "0c86c1147a4ee7f3ca6da1606c915ca5e602c5f247ed38b0c12e82e3950f5801",
   "resolve_endpoint": "",
 
   "site": "https://usplayer.ir",
   "notice": "",
   "notice_until": "",
   "notes": "",
-  "updated": "2026-10-01"
+  "updated": "2026-10-05"
 }
