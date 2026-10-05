@@ -1,143 +1,233 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Us Player for Android — Watch together, enjoy together · با هم ببینیم، با هم لذت ببریم" width="100%">
-
-<br><br>
-
-[![Release](https://img.shields.io/github/v/release/Pytholearn/UsPlayer-Android?style=for-the-badge&logo=github&label=release&color=3DDC84)](https://github.com/Pytholearn/UsPlayer-Android/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/Pytholearn/UsPlayer-Android/total?style=for-the-badge&logo=android&logoColor=white&label=downloads&color=2b7fff)](https://github.com/Pytholearn/UsPlayer-Android/releases)
-[![Android](https://img.shields.io/badge/Android-8.0%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#-install)
-[![License](https://img.shields.io/github/license/Pytholearn/UsPlayer-Android?style=for-the-badge&color=3ee0ff)](LICENSE)
-
-![Kotlin](https://img.shields.io/badge/Kotlin-2.2-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-UI-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
-![Media3](https://img.shields.io/badge/Media3-ExoPlayer-FF6F00?style=flat-square)
-![UI](https://img.shields.io/badge/UI-English%20%7C%20%D9%81%D8%A7%D8%B1%D8%B3%DB%8C-2b7fff?style=flat-square)
-![Telemetry](https://img.shields.io/badge/telemetry-none-2ea44f?style=flat-square)
-![Signed](https://img.shields.io/badge/APK-signed%20·%20v2%20%2B%20v3-2ea44f?style=flat-square&logo=keepassxc&logoColor=white)
-[![Windows](https://img.shields.io/badge/also%20on-Windows-0078D6?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0zIDNoOC42djguNkgzek0xMi40IDNIMjF2OC42aC04LjZ6TTMgMTIuNGg4LjZWMjFIM3pNMTIuNCAxMi40SDIxVjIxaC04LjZ6Ii8%2BPC9zdmc%2B&logoColor=white)](https://github.com/Pytholearn/UsPlayer)
+<img src="assets/banner.svg" alt="Us Player for Android — Watch together, enjoy together" width="100%">
 
 <br>
 
-<a href="https://github.com/Pytholearn/UsPlayer-Android/releases/latest"><img src="https://img.shields.io/badge/%E2%AC%87%20Download%20the%20APK-3DDC84?style=for-the-badge&logoColor=white" height="42" alt="Download the APK"></a>
-&nbsp;
-<a href="https://github.com/Pytholearn/UsPlayer/releases/latest"><img src="https://img.shields.io/badge/%F0%9F%92%BB%20Get%20it%20for%20Windows-2b7fff?style=for-the-badge&logoColor=white" height="42" alt="Get it for Windows"></a>
+**Watch the same movie at the same time — with friends, from your phone.**
 
-<br><br>
+<br>
 
-**[English](#english)** &nbsp;·&nbsp; **[فارسی](#persian)**
+<p align="center">
+<a href="https://github.com/Pytholearn/UsPlayer-Android/releases/latest"><img src="https://img.shields.io/github/v/release/Pytholearn/UsPlayer-Android?style=for-the-badge&logo=github&label=release&color=3DDC84" alt="Release"></a><!--
+--><a href="https://github.com/Pytholearn/UsPlayer-Android/releases"><img src="https://img.shields.io/github/downloads/Pytholearn/UsPlayer-Android/total?style=for-the-badge&logo=android&logoColor=white&label=downloads&color=6a3cff" alt="Downloads"></a><!--
+--><a href="#install"><img src="https://img.shields.io/badge/Android-8.0%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android 8.0 or newer"></a><!--
+--><a href="LICENSE"><img src="https://img.shields.io/github/license/Pytholearn/UsPlayer-Android?style=for-the-badge&label=license&color=3ee0ff" alt="MIT License"></a>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/stack-Kotlin%20%C2%B7%20Jetpack%20Compose%20%C2%B7%20Media3-1e293b?style=flat-square&logo=kotlin&logoColor=a97bff" alt="Kotlin, Jetpack Compose, Media3">
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/app%20UI-English%20%7C%20%D9%81%D8%A7%D8%B1%D8%B3%DB%8C-2b7fff?style=flat-square" alt="App UI languages">
+<img src="https://img.shields.io/badge/docs-EN%20%7C%20%E4%B8%AD%E6%96%87%20%7C%20FA%20%7C%20RU-6a3cff?style=flat-square" alt="Documentation languages">
+<img src="https://img.shields.io/badge/tracking-none-2ea44f?style=flat-square" alt="No tracking">
+<img src="https://img.shields.io/badge/port%20forwarding-not%20needed-2ea44f?style=flat-square" alt="No port forwarding">
+<img src="https://img.shields.io/badge/APK-signed%20%C2%B7%20v2%20%2B%20v3-2ea44f?style=flat-square" alt="Signed APK">
+</p>
+
+<br>
+
+| | |
+| :--: | :--: |
+| **Android** | **Windows** |
+| [![Get Android app](https://img.shields.io/badge/Get-Android%20app-059669?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Pytholearn/UsPlayer-Android/releases/latest) | [![Download Us Player](https://img.shields.io/badge/Download-Us%20Player-2563eb?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/Pytholearn/UsPlayer/releases/latest) |
+| <sub><code>UsPlayer-&lt;version&gt;.apk</code> · Android 8.0+</sub> | <sub>Same rooms, same account — chat, reactions &amp; voice</sub> |
+| <sub><a href="#install">Install guide</a> · SHA-256 on releases</sub> | <sub><a href="https://github.com/Pytholearn/UsPlayer">UsPlayer</a></sub> |
+
+<br>
+
+**Read in your language** (English is the default)
+
+<p align="center">
+<a href="README.md"><img src="https://img.shields.io/badge/English-default-2b7fff?style=for-the-badge" alt="English (default)"></a><!--
+--><a href="docs/README.zh-CN.md"><img src="https://img.shields.io/badge/%E4%B8%AD%E6%96%87-333?style=for-the-badge" alt="中文"></a><!--
+--><a href="docs/README.fa.md"><img src="https://img.shields.io/badge/%D9%81%D8%A7%D8%B1%D8%B3%DB%8C-6a3cff?style=for-the-badge" alt="فارسی"></a><!--
+--><a href="docs/README.ru.md"><img src="https://img.shields.io/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-0078D6?style=for-the-badge" alt="Русский"></a>
+</p>
 
 </div>
 
 ---
 
-<a id="english"></a>
+**Us Player for Android** puts the watch party in your pocket. Host a room, send your friends the invite, and everyone stays in sync — on phones or [on PCs](https://github.com/Pytholearn/UsPlayer), with no IP addresses, port forwarding, or router tweaks. When someone pauses, the room pauses. Find a film right inside the app, talk over voice, chat over the video, react with ❤️, and keep your eyes on the movie.
 
-## English
+> **Android + Windows:** One account and the same rooms on both. This is a native Android app — Kotlin, Jetpack Compose, Media3 — that speaks the [Windows player](https://github.com/Pytholearn/UsPlayer)'s watch-party protocol byte for byte, tested against the real Windows code on every build.
 
-**Us Player for Android** puts the watch party in your pocket. One person hosts a room **by name**, everyone else joins with that name, and the film plays for all of you at the same moment — whether they are on a phone or [on a PC](https://github.com/Pytholearn/UsPlayer). No IP addresses, no port forwarding. Talk while you watch, react across the picture, keep the chat on screen.
+**On this page:** [Features](#features) · [Install](#install) · [Watch together](#watch-together) · [How it works](#how-it-works) · [Permissions](#permissions) · [Privacy](#privacy) · [FAQ](#faq) · [License](#license)
 
-> Not a port of the desktop app squeezed onto a phone: a native Android app — Kotlin, Jetpack Compose, Media3 — that speaks the **same watch-party protocol**, byte for byte. That compatibility is tested against the real Windows code on every build.
+<a id="features"></a>
 
-### ✨ Features
+<div align="center">
 
-<table>
+## ✨ **Features**
+
+**Watch together** · **Find a film** · **Made for a phone** · **Private by design**
+
+<br>
+
+| **Together** | **Player** | **Quality of life** |
+| :--: | :--: | :--: |
+| Synced rooms | Find a film | One account, any device |
+| Voice & chat | Picture-in-picture | No tracking |
+| Room admin | Subtitles & pinch zoom | Auto-updates |
+
+</div>
+
+<br>
+
+<table width="100%">
+<thead>
 <tr>
-<td width="50%" valign="top">
-
-#### 🎬 Watch party
-- Host or join **by room name** — the same rooms Windows uses
-- **Shared control**: anyone's play, pause or seek reaches everyone
-- Optional room **password** that never crosses the wire
-- Subtitles the host loads **travel with the room**
-- The room keeps running in the background with its notification
-
-</td>
-<td width="50%" valign="top">
-
-#### 🎙️ Together
-- **Voice chat** that opens as soon as you join — one tap to mute
-- Voice from the **loudspeaker** or the **earpiece**, your choice
-- Echo cancellation and noise suppression from the phone itself
-- **Chat over the picture** and **reactions across the whole screen**
-- A talk button that floats over the film, so it never waits for the controls
-
-</td>
+<th align="left" width="50%"><strong>🎬 Watch party</strong></th>
+<th align="left" width="50%"><strong>🎙️ Stay connected</strong></th>
 </tr>
-<tr>
-<td valign="top">
-
-#### 📱 Made for a phone
-- **Pinch to zoom** the picture, 0.5× to 4×, and pan around it
-- **Picture-in-picture** — keep watching over other apps
-- Double-tap to skip, swipe to scrub
-- Layouts for portrait, landscape and tablets
-- Subtitles stay on the picture when you turn the phone
-
-</td>
-<td valign="top">
-
-#### 🔗 Smart links
-- Paste a **movie page**, not just a direct link — the real video behind it is found for you
-- **Search tab**: sites to find a film on, each with a short note
-- Open links shared from any other app straight into Us Player
-- History, favorites, resume where you left off
-
-</td>
-</tr>
+</thead>
+<tbody>
 <tr>
 <td valign="top">
 
-#### 🔊 Audio, video, subtitles
-- Volume boost, **10-band equalizer**, compressor, audio delay
-- Brightness, contrast, saturation, gamma, hue, sharpen, rotate, mirror
-- `.srt` / `.ass` / `.vtt`, Persian **encoding detected automatically**
-- Subtitle size, color, outline, position and delay — all live
+<ul>
+<li><strong>Join with an invite</strong> — Host in one tap and share the invite; no IPs or port forwarding.</li>
+<li><strong>Shared playback</strong> — Play, pause, seek, and speed stay in sync for everyone.</li>
+<li><strong>±100 ms sync</strong> — Clock alignment and gentle rate correction; seek when needed.</li>
+<li><strong>Room password</strong> — Optional; verified locally, never sent in plain text.</li>
+<li><strong>The room’s admin</strong> — The host picks the film or lets a friend do it, and can kick, ban, or mute someone for everyone.</li>
+<li><strong>Rooms survive the host</strong> — If the admin leaves or their internet drops, the room passes to the next person who joined — a phone can carry it on too.</li>
+<li><strong>Shared subtitles</strong> — What the host opens is sent to the room, including late joiners.</li>
+</ul>
 
 </td>
 <td valign="top">
 
-#### 💙 Made for people
-- **Persian and English**, right-to-left done properly
-- The same three themes — **Us Blue**, Dark Purple, Dark Mint
-- **Updates itself** — every download checked against its SHA-256
-- Nothing installs without Android's own confirmation
-- **No telemetry**
+<ul>
+<li><strong>Voice chat</strong> — The mic opens when you join voice; one tap mutes. Echo cancellation and noise suppression come from the phone itself.</li>
+<li><strong>Speaker or earpiece</strong> — Play voice through the loudspeaker on the sofa, or the earpiece for no echo.</li>
+<li><strong>Mute for me</strong> — Silence anyone just for yourself.</li>
+<li><strong>On-screen chat</strong> — Messages fade in along the bottom of the video.</li>
+<li><strong>Live reactions</strong> — 👍 ❤️ 😂 😮 🔥 👏 across the screen.</li>
+<li><strong>Room roster</strong> — Who’s here, ping, and who’s speaking.</li>
+<li><strong>Tidy rooms</strong> — A room with no film, chat, or voice for 10 minutes closes itself.</li>
+</ul>
 
 </td>
 </tr>
+</tbody>
 </table>
+
+<br>
+
+<table width="100%">
+<thead>
+<tr>
+<th align="left" width="50%"><strong>🔎 Find a film</strong></th>
+<th align="left" width="50%"><strong>📱 Made for a phone</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top">
+
+<ul>
+<li><strong>Search by name</strong> — Films and series with poster, rating, seasons, and comments; press <strong>Play</strong>, nothing to download.</li>
+<li><strong>Page URLs</strong> — Paste a movie page; Us Player finds <code>.mp4</code>, <code>.mkv</code>, or <code>.m3u8</code> and shows each step.</li>
+<li><strong>Best stream</strong> — Picks the main movie at the highest quality; skips trailers and clutter.</li>
+<li><strong>Share to Us Player</strong> — Links shared from any other app open straight in the player.</li>
+<li><strong>Your library</strong> — Resume, history, playlist, and favorites.</li>
+</ul>
+
+</td>
+<td valign="top">
+
+<ul>
+<li><strong>Pinch to zoom</strong> — 0.5× to 4×, and pan around the picture.</li>
+<li><strong>Picture-in-picture</strong> — Keep watching over other apps.</li>
+<li><strong>Gestures</strong> — Double-tap to skip, swipe to scrub.</li>
+<li><strong>Keeps running</strong> — The film and the room stay alive in the background with their notification.</li>
+<li><strong>Layouts</strong> — Portrait, landscape, and tablets; subtitles stay on the picture when you turn the phone.</li>
+</ul>
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<br>
+
+<table width="100%">
+<thead>
+<tr>
+<th align="left" width="50%"><strong>🔊 Audio, video & subtitles</strong></th>
+<th align="left" width="50%"><strong>💙 Built with care</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top">
+
+<ul>
+<li><strong>Loud & clear</strong> — Volume up to <strong>300%</strong> with an optional compressor and audio delay.</li>
+<li><strong>10-band EQ</strong> — Presets and normalization.</li>
+<li><strong>Picture controls</strong> — Brightness, contrast, saturation, gamma, hue, sharpen, rotate, mirror — live.</li>
+<li><strong>Subtitles</strong> — <code>.srt</code>, <code>.ass</code>, <code>.vtt</code>; size, color, outline, position, and delay change live; Persian <strong>encoding</strong> detected automatically.</li>
+</ul>
+
+</td>
+<td valign="top">
+
+<ul>
+<li><strong>One account</strong> — Sign in with the same account as on Windows; a new one is confirmed with a 6-digit email code. Rooms know you by it, wherever you join from.</li>
+<li><strong>Two languages</strong> — English and Persian, with proper right-to-left layout.</li>
+<li><strong>Themes</strong> — Us Blue, Dark Purple, and Dark Mint.</li>
+<li><strong>Safe updates</strong> — In-app updates with <strong>SHA-256</strong> verification, installed only after Android asks you.</li>
+<li><strong>One signing key</strong> — Every release is signed with the same key, so nobody else can hand you an “update”.</li>
+</ul>
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<a id="install"></a>
 
 ### 📥 Install
 
 1. Download **`UsPlayer-<version>.apk`** from the [latest release](https://github.com/Pytholearn/UsPlayer-Android/releases/latest).
 2. Open it. Android asks you to allow installing apps from this source — the normal prompt for anything that does not come from a store. Allow it and install.
-3. **Play Protect** may say the app was not installed from Google Play. Tap **Install anyway**. You can check the file against the SHA-256 on its release page, and the signing key below.
+3. If **Play Protect** says the app was not installed from Google Play, tap **Install anyway**. Every release lists its **SHA-256**, and the signing key’s fingerprint is [below](#privacy).
+4. On first launch, **sign in** — or create an account and confirm your email with the 6-digit code. The same account works on Windows.
 
-**Requires Android 8.0 or newer.** Future versions arrive inside the app: it offers the update, downloads it only when you tap, verifies it, and hands it to Android's installer.
+**Requires Android 8.0 or newer.** **Already installed?** The app updates itself; accept the update when it asks.
 
-### 🍿 Watch together in three steps
+<a id="watch-together"></a>
 
-| | Host | Friends — on a phone or a PC |
+### 🍿 Start a watch party in three steps
+
+| Step | Host | Friends — on a phone or a PC |
 |:-:|---|---|
-| **1** | **Party → Host**, type a room name (and a password if you like) | **Party → Join**, type the same name |
-| **2** | Tap **Create Room** | Tap **Join** |
-| **3** | Open a film by link | It opens for them too, in sync |
+| **1** | Open **Party → Host**, add a room name and password if you like, tap **Create Room** | Open **Party → Join** |
+| **2** | Tap **Copy invite** and send it | Paste the invite and join |
+| **3** | Pick a film with **Search**, a link, or a share from another app | The same film opens for everyone, in sync |
+
+<a id="how-it-works"></a>
 
 ### 🧠 How it works
 
-The film **never goes through our server**. Every phone and every PC streams it straight from where it lives; only tiny control messages — play, pause, seek, chat — and voice pass through the relay.
+Your movie **never passes through our servers**. Each person streams video **directly from the source**. Only small control messages — play, pause, seek, chat — plus voice audio go through the relay.
 
 ```mermaid
 flowchart LR
     H["📱 Host on Android"] -->|"play · pause · seek · chat · voice"| R(("☁️ Relay"))
-    R -->|"the same commands"| F1["💻 Friend on Windows"]
-    R -->|"the same commands"| F2["📱 Friend on Android"]
-    S[("🌐 The film's own server")]
+    R -->|"synced commands"| F1["💻 Friend on Windows"]
+    R -->|"synced commands"| F2["📱 Friend on Android"]
+    S[("🌐 Movie source")]
     S -.->|"video"| H
     S -.->|"video"| F1
     S -.->|"video"| F2
 ```
+
+<a id="permissions"></a>
 
 ### 🔐 Permissions, and why
 
@@ -147,24 +237,55 @@ flowchart LR
 | 🔔 Notifications | The playback and room notifications — what lets Android keep a film and a room alive in the background. |
 | 📦 Install apps | In-app updates. Nothing installs by itself: you tap, the file is verified, and Android asks you again. |
 
+<a id="privacy"></a>
+
 ### 🔒 Privacy & security
 
-- **Room passwords never leave your phone** — a salted challenge and response, only a proof crosses the network.
-- **Everything from a room is treated as hostile**: size-capped, validated, replay-protected, rate-limited.
-- **A file on your phone is never broadcast** — a path on your phone means nothing on anyone else's.
-- **Updates are verified** against the SHA-256 published with them, then confirmed by you in Android's installer.
-- **Every release is signed with the same key.** Android refuses any "update" that is not, so nobody else can hand you one. The certificate's SHA-256 fingerprint:
+- **Room passwords stay on your phone.** Join uses a salted challenge–response; only a proof is sent over the network.
+- **Your account password goes only to our server**, over TLS to a pinned certificate — checked before a single byte is sent. The session stays on your phone and is never backed up.
+- **The room’s secrets stay with the admin.** Friends only get what they need to carry the room on if the admin leaves.
+- **Untrusted-by-default messaging.** Room traffic is size-limited, validated, protected against replay, and rate-limited.
+- **Local files are not shared.** A file on your phone does not exist on a friend’s device, so the room pauses and asks for a **link everyone can use**.
+- **Verified updates.** Downloads that don’t match the published **SHA-256** are rejected.
+- **No tracking.** We don’t collect what you watch. The only thing the app reports is an anonymous count when an ad is shown.
+- **Every release is signed with the same key.** The certificate’s SHA-256 fingerprint:
 
 ```
 12:CE:4D:C4:82:92:0C:74:C0:B7:24:74:E7:22:16:9E:DD:CB:B2:80:84:23:E7:1B:13:55:0B:CC:81:A2:5B:1D
 ```
 
+<a id="faq"></a>
+
 ### ❓ FAQ
+
+<details>
+<summary><b>Do friends need the same Wi‑Fi or an open port?</b></summary>
+<br>
+No. The host gets an invite from the relay, so anyone can join from anywhere with just that invite.
+</details>
 
 <details>
 <summary><b>Can I join a room someone hosts on Windows?</b></summary>
 <br>
-Yes — and they can join yours. Both builds speak the same protocol, and that is checked against the real Windows code on every Android build.
+Yes — and they can join yours, with chat, reactions, and voice. Both apps speak the same protocol, and that is checked against the real <a href="https://github.com/Pytholearn/UsPlayer">Windows</a> code on every Android build.
+</details>
+
+<details>
+<summary><b>Why do I need an account?</b></summary>
+<br>
+So a room knows who you are, not just which phone you are on: what the admin allowed you — or a ban — follows you to any device. Use the same account on your phone and your PC. Forgot the password? <b>Forgot password?</b> on the sign-in screen sends a code to your email.
+</details>
+
+<details>
+<summary><b>What happens if the host leaves or loses internet?</b></summary>
+<br>
+The room keeps going. It passes to the next person who joined, who becomes the new admin — on a phone or a PC. If the old host comes back, they rejoin as a member.
+</details>
+
+<details>
+<summary><b>Sign-in, search, or a room won’t connect with my VPN on.</b></summary>
+<br>
+Our server is in Iran, and some VPNs cannot reach it. Exclude Us Player in your VPN app (split tunnelling / per-app mode) or turn the VPN off. Some Iranian movie sites also block overseas IPs, so a film from one of them may play only with the VPN off.
 </details>
 
 <details>
@@ -176,182 +297,41 @@ Us Player updates itself from this repository, which Play does not allow. The AP
 <details>
 <summary><b>Friends hear an echo of their own voice.</b></summary>
 <br>
-The microphone is hearing your loudspeaker. Wear headphones, tap the mic to mute when you are not talking, or turn off <b>Settings → Voice → Play voice through the loudspeaker</b> — the earpiece route is where the phone's echo canceller works best.
+The microphone is hearing your loudspeaker. Wear headphones, mute the mic when you are not talking, or turn off <b>Settings → Voice → Play voice through the loudspeaker</b> — the phone’s echo canceller works best on the earpiece.
 </details>
 
 <details>
 <summary><b>The room drops when I switch to another app.</b></summary>
 <br>
-Some phones' battery savers stop apps in the background. Give Us Player <b>unrestricted</b> battery use in Android settings, and allow its notifications — they are how Android knows the app is busy.
+Some phones’ battery savers stop apps in the background. Give Us Player <b>unrestricted</b> battery use in Android settings, and allow its notifications — they are how Android knows the app is busy.
 </details>
 
 <details>
-<summary><b>My Persian subtitle shows broken letters.</b></summary>
+<summary><b>Persian subtitles show <code>???</code> or garbled text.</b></summary>
 <br>
-The encoding is detected automatically, and Windows-1256 is tried for Persian files. If a file still looks wrong, pick it by hand under <b>Subtitles → Text encoding</b>.
+The encoding is detected automatically, with Windows-1256 tried for Persian files. If a file still looks wrong, pick <b>Windows-1256</b> under <b>Subtitles → Text encoding</b>.
 </details>
 
----
+<details>
+<summary><b>A website says the movie can’t be played.</b></summary>
+<br>
+DRM-protected services (Filimo, Namava, Gapfilm, and similar) only play inside their official apps; Us Player will tell you clearly instead of failing silently.
+</details>
 
-<a id="persian"></a>
+<a id="license"></a>
 
-<div dir="rtl">
+### 📄 License
 
-## فارسی
+Us Player is open source under the **[MIT License](LICENSE)**.
 
-**Us Player اندروید** تماشای گروهی را به جیبت می‌آورد. یک نفر با یک **اسم** اتاق می‌سازد، بقیه با همان اسم وارد می‌شوند، و فیلم برای همه در یک لحظه پخش می‌شود — چه روی گوشی باشند چه [روی کامپیوتر](https://github.com/Pytholearn/UsPlayer). بدون IP، بدون پورت‌فورواردینگ. موقع تماشا با هم حرف بزنید، روی تصویر واکنش بفرستید، چت را روی صفحه داشته باشید.
-
-> این نسخهٔ دسکتاپ نیست که به‌زور در گوشی جا شده باشد: یک برنامهٔ واقعی اندروید است — Kotlin، Jetpack Compose و Media3 — که **همان پروتکل تماشای گروهی** را بایت‌به‌بایت حرف می‌زند. این سازگاری در هر بیلد با کد واقعی ویندوز آزمایش می‌شود.
-
-### ✨ امکانات
-
-<table dir="rtl">
-<tr>
-<td width="50%" valign="top">
-
-#### 🎬 تماشای گروهی
-- ساختن و پیوستن **با اسم اتاق** — همان اتاق‌های ویندوز
-- **کنترل مشترک**: پخش، مکث یا جابه‌جایی هر کسی به همه می‌رسد
-- **رمز** اختیاری برای اتاق که هیچ‌وقت روی شبکه نمی‌رود
-- زیرنویسی که میزبان باز می‌کند **برای همه ارسال می‌شود**
-- اتاق با اعلانش در پس‌زمینه زنده می‌ماند
-
-</td>
-<td width="50%" valign="top">
-
-#### 🎙️ با هم
-- **چت صوتی** که به‌محض ورود باز می‌شود — یک لمس برای بی‌صدا کردن
-- پخش صدا از **بلندگو** یا **گوشی تماس**، به انتخاب خودت
-- حذف اکو و حذف نویز خود گوشی
-- **چت روی تصویر** و **واکنش‌ها روی کل صفحه**
-- دکمهٔ صحبت شناور روی فیلم، که منتظر کنترل‌ها نمی‌ماند
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-#### 📱 ساخته‌شده برای گوشی
-- **بزرگ و کوچک کردن تصویر با دو انگشت**، ۰٫۵ تا ۴ برابر، و جابه‌جا کردنش
-- **تصویر در تصویر** — تماشا روی برنامه‌های دیگر
-- دو ضربه برای جلو و عقب، کشیدن برای جابه‌جایی
-- چیدمان برای حالت عمودی، افقی و تبلت
-- وقتی گوشی را می‌چرخانی زیرنویس روی تصویر می‌ماند
-
-</td>
-<td valign="top">
-
-#### 🔗 لینک هوشمند
-- **لینک صفحهٔ فیلم** را بچسبان، نه فقط لینک مستقیم — ویدئوی واقعی پشتش برایت پیدا می‌شود
-- **تب جستجو**: سایت‌هایی برای پیدا کردن فیلم، هر کدام با یک توضیح کوتاه
-- لینکی که از هر برنامهٔ دیگری به اشتراک بگذاری مستقیم در Us Player باز می‌شود
-- تاریخچه، علاقه‌مندی‌ها، ادامه از همان‌جا
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-#### 🔊 صدا، تصویر، زیرنویس
-- تقویت صدا، **اکولایزر ۱۰ باند**، کمپرسور، تأخیر صدا
-- روشنایی، کنتراست، اشباع، گاما، رنگ، شارپ، چرخش، آینه
-- `.srt` / `.ass` / `.vtt`، و **تشخیص خودکار انکودینگ** فارسی
-- اندازه، رنگ، حاشیه، جایگاه و تأخیر زیرنویس — همه زنده
-
-</td>
-<td valign="top">
-
-#### 💙 برای آدم‌ها ساخته شده
-- **فارسی و انگلیسی**، با راست‌به‌چپ درست و حسابی
-- همان سه تم — **Us Blue**، بنفش تیره، نعنایی تیره
-- **خودش را آپدیت می‌کند** — هر دانلود با SHA-256 خودش بررسی می‌شود
-- هیچ چیز بدون تأیید خود اندروید نصب نمی‌شود
-- **بدون هیچ ردیابی**
-
-</td>
-</tr>
-</table>
-
-### 📥 نصب
-
-1. فایل **`UsPlayer-<نسخه>.apk`** را از [آخرین ریلیز](https://github.com/Pytholearn/UsPlayer-Android/releases/latest) دانلود کن.
-2. بازش کن. اندروید اجازهٔ نصب از این منبع را می‌خواهد — برای هر برنامه‌ای که از فروشگاه نیامده طبیعی است. اجازه بده و نصب کن.
-3. ممکن است **Play Protect** بگوید برنامه از گوگل پلی نیامده. **Install anyway** را بزن. می‌توانی فایل را با SHA-256 صفحهٔ ریلیز و کلید امضای پایین مقایسه کنی.
-
-**حداقل اندروید ۸.** نسخه‌های بعدی داخل خود برنامه می‌رسند: آپدیت را پیشنهاد می‌دهد، فقط با زدن تو دانلودش می‌کند، بررسی‌اش می‌کند و به نصب‌کنندهٔ اندروید می‌سپارد.
-
-### 🍿 تماشای گروهی در سه قدم
-
-| | میزبان | دوستان — روی گوشی یا کامپیوتر |
-|:-:|---|---|
-| **۱** | **اتاق ← ساخت اتاق**، یک اسم اتاق (و اگر خواستی رمز) | **اتاق ← پیوستن**، همان اسم |
-| **۲** | **ساخت اتاق** را بزن | **پیوستن** را بزن |
-| **۳** | یک فیلم را با لینک باز کن | برای آن‌ها هم باز می‌شود، هماهنگ |
-
-### 🧠 چطور کار می‌کند
-
-فیلم **هیچ‌وقت از سرور ما رد نمی‌شود**. هر گوشی و هر کامپیوتر فیلم را مستقیم از جای خودش پخش می‌کند؛ فقط پیام‌های کوچک کنترلی — پخش، مکث، جابه‌جایی، چت — و صدای گفتگو از رله می‌گذرند.
-
-```mermaid
-flowchart RL
-    H["📱 میزبان روی اندروید"] -->|"پخش · مکث · جابه‌جایی · چت · صدا"| R(("☁️ رله"))
-    R -->|"همان فرمان‌ها"| F1["💻 دوست روی ویندوز"]
-    R -->|"همان فرمان‌ها"| F2["📱 دوست روی اندروید"]
-    S[("🌐 سرور خود فیلم")]
-    S -.->|"ویدئو"| H
-    S -.->|"ویدئو"| F1
-    S -.->|"ویدئو"| F2
-```
-
-### 🔐 دسترسی‌ها و دلیلشان
-
-| دسترسی | برای چه |
+| | |
 |---|---|
-| 🎙️ میکروفون | چت صوتی. فقط وقتی به صدا می‌پیوندی پرسیده می‌شود؛ بقیهٔ برنامه بدون آن کار می‌کند. |
-| 🔔 اعلان‌ها | اعلان پخش و اتاق — همان چیزی که به اندروید اجازه می‌دهد فیلم و اتاق در پس‌زمینه زنده بمانند. |
-| 📦 نصب برنامه | آپدیت داخل برنامه. هیچ چیز خودبه‌خود نصب نمی‌شود: تو می‌زنی، فایل بررسی می‌شود، و اندروید دوباره از تو می‌پرسد. |
+| **Copyright** | © 2026 [Pytholearn](https://github.com/Pytholearn) |
+| **You can** | Use commercially, modify, distribute, and use privately |
+| **Please** | Keep the copyright and license notice in copies |
+| **Note** | Software is provided *as is*, without warranty |
 
-### 🔒 حریم خصوصی و امنیت
-
-- **رمز اتاق هیچ‌وقت از گوشی‌ات بیرون نمی‌رود** — چالش و پاسخ نمک‌دار، فقط یک اثبات روی شبکه می‌رود.
-- **هر چه از اتاق برسد نامطمئن فرض می‌شود**: اندازه محدود، بررسی‌شده، محافظت‌شده در برابر تکرار و سیل پیام.
-- **فایل روی گوشی‌ات هیچ‌وقت پخش نمی‌شود** — مسیری روی گوشی تو روی گوشی دیگران معنایی ندارد.
-- **آپدیت‌ها بررسی می‌شوند** با SHA-256 منتشرشده‌شان، و بعد تو در نصب‌کنندهٔ اندروید تأییدشان می‌کنی.
-- **همهٔ نسخه‌ها با یک کلید امضا می‌شوند.** اندروید هر «آپدیتی» که با همین کلید امضا نشده باشد رد می‌کند، پس کس دیگری نمی‌تواند به تو آپدیت بدهد. اثر انگشت SHA-256 گواهی بالای همین صفحه آمده.
-
-### ❓ سؤال‌های رایج
-
-<details>
-<summary><b>می‌توانم وارد اتاقی شوم که کسی روی ویندوز ساخته؟</b></summary>
-<br>
-بله — و او هم می‌تواند وارد اتاق تو شود. هر دو نسخه یک پروتکل را حرف می‌زنند و این در هر بیلد اندروید با کد واقعی ویندوز بررسی می‌شود.
-</details>
-
-<details>
-<summary><b>چرا در گوگل پلی نیست؟</b></summary>
-<br>
-Us Player خودش را از همین ریپو آپدیت می‌کند، که گوگل پلی اجازه نمی‌دهد. APK صفحهٔ ریلیزها نسخهٔ رسمی است و با همان کلید امضا شده.
-</details>
-
-<details>
-<summary><b>دوستانم صدای خودشان را اکو می‌شنوند.</b></summary>
-<br>
-میکروفون صدای بلندگوی تو را می‌شنود. هدفون بزن، وقتی حرف نمی‌زنی میکروفون را بی‌صدا کن، یا <b>تنظیمات ← صدای گفتگو ← پخش صدا از بلندگوی اصلی</b> را خاموش کن — روی گوشی تماس، حذف اکوی گوشی بهترین کارش را می‌کند.
-</details>
-
-<details>
-<summary><b>وقتی به برنامهٔ دیگری می‌روم اتاق قطع می‌شود.</b></summary>
-<br>
-صرفه‌جوی باتری بعضی گوشی‌ها برنامه‌ها را در پس‌زمینه می‌بندد. در تنظیمات اندروید مصرف باتری Us Player را <b>بدون محدودیت</b> کن و اعلان‌هایش را مجاز بگذار — اندروید از همین‌ها می‌فهمد برنامه مشغول است.
-</details>
-
-<details>
-<summary><b>زیرنویس فارسی‌ام حروف به‌هم‌ریخته نشان می‌دهد.</b></summary>
-<br>
-انکودینگ خودکار تشخیص داده می‌شود و برای فایل‌های فارسی Windows-1256 امتحان می‌شود. اگر فایلی باز هم درست نبود، از <b>زیرنویس ← رمزگذاری متن</b> دستی انتخابش کن.
-</details>
-
-</div>
+See the full license text in [LICENSE](LICENSE).
 
 ---
 
@@ -363,6 +343,10 @@ Us Player خودش را از همین ریپو آپدیت می‌کند، که �
 
 [Android](https://github.com/Pytholearn/UsPlayer-Android) · [Windows](https://github.com/Pytholearn/UsPlayer) · [MIT License](LICENSE)
 
-<sub>If Us Player made a movie night better, a ⭐ helps other people find it.<br>اگر Us Player یک شب فیلم را بهتر کرد، یک ⭐ کمک می‌کند بقیه هم پیدایش کنند.</sub>
+[English](README.md) · [中文](docs/README.zh-CN.md) · [فارسی](docs/README.fa.md) · [Русский](docs/README.ru.md)
+
+<br>
+
+<sub>Enjoying Us Player? A ⭐ on GitHub helps more movie fans discover it.</sub>
 
 </div>
